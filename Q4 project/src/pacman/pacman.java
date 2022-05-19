@@ -73,7 +73,7 @@ public class pacman extends JPanel implements ActionListener {
     	up = new ImageIcon("src/up.gif").getImage();
     	left = new ImageIcon("src/left.gif").getImage();
     	right = new ImageIcon("src/right.gif").getImage();
-        ghost = new ImageIcon("src/ghost.gif").getImage();
+        //ghost = new ImageIcon("src/ghost.gif").getImage();
         heart = new ImageIcon("src/heart.png").getImage();
 
     }
