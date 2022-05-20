@@ -102,7 +102,7 @@ public class pacman extends JPanel implements ActionListener {
 
             movePacman();
             drawPacman(g2d);
-            moveGhosts(g2d);
+            //moveGhosts(g2d);
             checkMaze();
         }
     }
@@ -161,6 +161,10 @@ public class pacman extends JPanel implements ActionListener {
 
         if (lives == 0) {
             inGame = false;
+            String start = "You lose! Press SPACE to restart";
+           // start.setColor(Color.yellow);
+          //  start.drawString(start, ((SCREEN_SIZE)/4)+17, 170);
+            
         }
 
         continueLevel();
