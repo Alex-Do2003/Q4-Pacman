@@ -9,6 +9,7 @@ This game is a replication of the original Pac-Man game. Although it is a replli
 USAGE:
 
 Spacebar: to start/restart game
+
 The Arrow Keys: to move the pacman character
 
 
