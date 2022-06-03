@@ -17,6 +17,8 @@ METHODS:
 
 [images of screens]
 
+![](https://i.postimg.cc/Fz6dQs2k/Screenshot-19.png)
+
 We made two different methods for each screen. One for the intitial starting screen as well as the winning screen. We later call these methods in our paintComponent method.
 
 [images of ghosts]
