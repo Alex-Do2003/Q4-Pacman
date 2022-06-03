@@ -17,6 +17,7 @@ The Arrow Keys: to move the pacman character
 METHODS:
 
 ![](https://i.postimg.cc/Fz6dQs2k/Screenshot-19.png)
+
 ![](https://i.postimg.cc/nrr2kr4X/Screenshot-6.png)
 
 We made two different methods for each screen. One for the intitial starting screen as well as the winning screen. We later call these methods in our paintComponent method.
