@@ -15,7 +15,20 @@ The Arrow Keys: to move the pacman character
 
 METHODS:
 
-OBJECTS:
+[images of screens]
+
+We made two different methods for each screen. One for the intitial starting screen as well as the winning screen. We later call these methods in our paintComponent method.
+
+[images of ghosts]
+
+There were multiple methods to have the ghost fully fuctional. We first needed a method to draw the ghost on to our program. We created another method to give the ghosts randomized movements. 
+
+[image of pacman]
+
+We used multiple methods to get our pacman character fuctional. Similar to the ghost methods we needed to create a method to draw our pacman onto our program. We needed for different images for our pacment for each direcetion: up, down, left, and right. Then we created the actual movment method for our character.
+
+[images of maze]
+In this method, we created the borders and obstavle of our maze. 
 
 UPDATES:
 
